@@ -68,6 +68,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/tienpcs/count.svg?"  />
 </div>
-
-
-# tienpcs
